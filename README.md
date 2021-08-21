@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**karuboniru/karuboniru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on some neutrino experiments
+- 📚 I’m not good at programming
+- 🌱 I’m currently learning C++ (and seems it will last forever)
+- 📫 How to reach me: 
+  - [GitHub](https://github.com/karuboniru)
+  - [Reddit](https://www.reddit.com/user/karuboniru)
+  - [Twitter](https://twitter.com/karuboniru)
+  - [Telegram](https://t.me/karuboniru)
+  - [Email](mailto:nico@niconi.org)
+  - [Pawoo](https://pawoo.net/@karuboniru)  
+- ⚡ Fun fact: I am literitely fat and looking forward to lose some weight 💪
+- 📺 Video game: Playing `Tom Clancy's Rainbow Six Siege`
+- 🏡 [Blog](https://yanqiyu.info/) (In Chinese)
